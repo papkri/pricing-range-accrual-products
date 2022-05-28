@@ -13,3 +13,5 @@ The file functions.R contain all the main functions for:
   -simulating the Heston model with the "almost-exact" simulaiton
   
   -calibrating the Heston model
+ 
+ Other files were used for creating the figures in the thesis. Any time when the dataframe "prices" is used, it is the combined_calibration_data.xslsx
